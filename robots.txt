@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndreeaNeculaiTHG.github.io/resources-x6bq56/sitemap.xml
